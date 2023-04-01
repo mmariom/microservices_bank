@@ -1,0 +1,27 @@
+dependencies:
+- name: mmario-common
+  repository: file://../../mmario-common
+  version: 0.1.0
+- name: zipkin
+  repository: file://../../mmario-services/zipkin
+  version: 0.1.0
+- name: configserver
+  repository: file://../../mmario-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../mmario-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../mmario-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../mmario-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../mmario-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../mmario-services/gatewayserver
+  version: 0.1.0
+digest: sha256:f3c93366defabe3aebd0e3aa74d07ce3ad01c36655857720e1c0cfd1962d84fd
+generated: "2023-03-20T18:01:54.114769+01:00"

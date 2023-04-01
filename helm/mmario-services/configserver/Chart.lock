@@ -1,0 +1,6 @@
+dependencies:
+- name: mmario-common
+  repository: file://../../mmario-common
+  version: 0.1.0
+digest: sha256:aab6bda2e3211645ab0b1b0a0a822b7d41d6500e6b459a00f094f12c81cdd6e5
+generated: "2023-03-20T16:58:15.226646+01:00"
